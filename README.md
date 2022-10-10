@@ -1,5 +1,5 @@
 # FeedFMHookPlatform
-React Native Feed FM Demo App using Hooks with location detection using device SIM.
+React Native Feed FM Demo App using Hooks and location detection using device SIM.
 
 ## Install
 * yarn install or npm install
