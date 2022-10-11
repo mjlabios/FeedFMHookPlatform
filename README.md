@@ -3,7 +3,7 @@ React Native Feed FM Demo App using Hooks and location detection using device SI
 
 ## Install
 * yarn install or npm install
-* react-native run-ios or expo run:ios
+* react-native run-ios
 * have fun :)
   
 
